@@ -1,0 +1,41 @@
+{
+  "name": "hopper-clone",
+  "version": "0.0.0",
+  "description": "hopper solitaire game clone for the web",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalitohg/hopper-clone.git"
+  },
+  "keywords": [
+    "game",
+    "peg",
+    "frog",
+    "solitaire",
+    "web_game",
+    "html5",
+    "html5_game"
+  ],
+  "author": "Eduardo Hernandez Guerrero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lalitohg/hopper-clone/issues"
+  },
+  "homepage": "https://github.com/lalitohg/hopper-clone#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-sass": "^3.1.0",
+    "mocha": "^5.0.1",
+    "phaser-ce": "^2.10.0"
+  },
+  "dependencies": {}
+}
